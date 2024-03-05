@@ -4,3 +4,5 @@
 ## Buổi 2 https://github.com/thanhdnh/DSA-B02
 ## Buổi 3 https://github.com/thanhdnh/DSA-B03
 ## Buổi 4 https://github.com/thanhdnh/DSA-B04
+## Buổi 5 https://github.com/thanhdnh/DSA-B05
+## Buổi 6 https://github.com/thanhdnh/DSA-B06
